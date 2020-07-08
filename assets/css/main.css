@@ -2611,7 +2611,11 @@
 			#header {
 				padding: 4em 0 2em 0;
 			}
-
+            		#header .avatar img {
+				border-radius: 100%;
+				display: block;
+				width: 6em;
+			}
 		}
 
 /* Footer */
